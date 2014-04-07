@@ -1,0 +1,12 @@
+{
+	"name": "monitor",
+	"description": "伺服器、服務監控",
+	"version": "1.0.0",
+	"license": "CC-BY-SA-3.0",
+	"author": "a0000778",
+	"dependencies": {
+		"ftp": ">=0.3.6",
+		"net-ping": ">=1.1.10"
+	},
+	"main": "main.js"
+}
